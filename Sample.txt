@@ -2,6 +2,12 @@ welcome to my sample file. Just for practice.
 
 want to add some lines.
 
+added this line to create a new branch.
 
 Thank you. :)
+
+ 
+ done my changes.
+
 Final copy.
+
